@@ -6,7 +6,7 @@
 ## 자바스크립트 엔진
 
 자바스크립트 엔진 중 유명한 것이 구글의 V8엔진이다. 
-> V8엔진은 크롬과 노드js에서 사용됩니다.
+> V8엔진은 크롬과 Node Js에서 사용됩니다.
 
 ![JSEngine](https://github.com/KIMSANGYEOB/jsMustKnow33/blob/master/1.call-stack/src/JsEngine.png)
 
